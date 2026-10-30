@@ -1,236 +1,237 @@
 "country","iso","code"
-Australia, AU, +61
-Austria, AT, +43
-Azerbaijan, AZ, +994
-Albania, AL, +355
-Algeria, DZ, +213
-American Samoa, AS, +1
-Anguilla, AI, +1
-Angola, AO, +244
-Andorra, AD, +376
-Antigua and Barbuda, AG, +1
-Argentina, AR, +54
-Armenia, AM, +374
-Aruba, AW, +297
-Afghanistan, AF, +93
-Bahamas, BS, +1
-Bangladesh, BD, +880
-Barbados, BB, +1
-Bahrain, BH, +973
-Belarus, BY, +375
-Belize, BZ, +501
-Belgium, BE, +32
-Benin, BJ, +229
-Bermuda, BM, +1
-Bulgaria, BG, +359
-Bolivia, BO, +591
-Bonaire, Sint Eustatius and Saba, BQ, +599
-Bosnia and Herzegovina, BA, +387
-Botswana, BW, +267
-Brazil, BR, +55
-British Indian Ocean Territory, IO, +246
-Brunei Darussalam, BN, +673
-Burkina Faso, BF, +226
-Burundi, BI, +257
-Bhutan, BT, +975
-Vanuatu, VU, +678
-Holy See (Vatican City State), VA, +39
-United Kingdom, GB, +44
-Hungary, HU, +36
-Venezuela, VE, +58
-U.S. Virgin Islands, VI, +1
-Australia (External Territories), AU, +672   ← (В исходном списке фигурирует как «Внешние территории Австралии»)
-Timor-Leste, TL, +670
-Vietnam, VN, +84
-Gabon, GA, +241
-Haiti, HT, +509
-Guyana, GY, +592
-Gambia, GM, +220
-Ghana, GH, +233
-Guadeloupe, GP, +590
-Guatemala, GT, +502
-Guinea, GN, +224
-Guinea-Bissau, GW, +245
-Germany, DE, +49
-Gibraltar, GI, +350
-Honduras, HN, +504
-Hong Kong, HK, +852
-Grenada, GD, +1
-Greenland, GL, +299
-Greece, GR, +30
-Georgia, GE, +995
-Guam, GU, +1
-Denmark, DK, +45
-Democratic Republic of the Congo, CD, +243
-Djibouti, DJ, +253
-Diego Garcia (BIOT), IO, +246
-Dominica, DM, +1
-Dominican Republic, DO, +1
-Egypt, EG, +20
-Zambia, ZM, +260
-Zimbabwe, ZW, +263
-Israel, IL, +972
-India, IN, +91
-Indonesia, ID, +62
-Jordan, JO, +962
-Iraq, IQ, +964
-Iran, IR, +98
-Ireland, IE, +353
-Iceland, IS, +354
-Spain, ES, +34
-Italy, IT, +39
-Yemen, YE, +967
-Cabo Verde, CV, +238
-Kazakhstan, KZ, +7
-Cayman Islands, KY, +1
-Cambodia, KH, +855
-Cameroon, CM, +237
-Canada, CA, +1
-Qatar, QA, +974
-Kenya, KE, +254
-Cyprus, CY, +357
-Kiribati, KI, +686
-China, CN, +86
-Colombia, CO, +57
-Comoros, KM, +269
-Republic of the Congo, CG, +242
-North Korea (DPRK), KP, +850
-Kosovo, XK, +383
-Costa Rica, CR, +506
-Côte d’Ivoire, CI, +225
-Cuba, CU, +53
-Kuwait, KW, +965
-Kyrgyzstan, KG, +996
-Curaçao, CW, +599
-Laos (Lao PDR), LA, +856
-Latvia, LV, +371
-Lesotho, LS, +266
-Liberia, LR, +231
-Lebanon, LB, +961
-Libya, LY, +218
-Lithuania, LT, +370
-Liechtenstein, LI, +423
-Luxembourg, LU, +352
-Mauritius, MU, +230
-Mauritania, MR, +222
-Madagascar, MG, +261
-Macau, MO, +853
-Malawi, MW, +265
-Malaysia, MY, +60
-Mali, ML, +223
-Maldives, MV, +960
-Malta, MT, +356
-Morocco, MA, +212
-Martinique, MQ, +596
-Marshall Islands, MH, +692
-Mexico, MX, +52
-Micronesia (Federated States of), FM, +691
-Mozambique, MZ, +258
-Moldova, MD, +373
-Monaco, MC, +377
-Mongolia, MN, +976
-Montserrat, MS, +1
-Myanmar, MM, +95
-Namibia, NA, +264
-Nauru, NR, +674
-Nepal, NP, +977
-Niger, NE, +227
-Nigeria, NG, +234
-Netherlands, NL, +31
-Nicaragua, NI, +505
-Niue, NU, +683
-New Zealand, NZ, +64
-New Caledonia, NC, +687
-Norway, NO, +47
-United Arab Emirates, AE, +971
-Oman, OM, +968
-Ascension Island, SH, +247
-Saint Helena, SH, +290
-Cook Islands, CK, +682
-Turks and Caicos Islands, TC, +1
-Tristan da Cunha, SH, +290
-Pakistan, PK, +92
-Palau, PW, +680
-Palestine, PS, +970
-Panama, PA, +507
-Papua New Guinea, PG, +675
-Peru, PE, +51
-Poland, PL, +48
-Portugal, PT, +351
-Puerto Rico, PR, +1
-South Korea (Republic of Korea), KR, +82
-Réunion, RE, +262
-Russia, RU, +7
-Rwanda, RW, +250
-Romania, RO, +40
-El Salvador, SV, +503
-Samoa, WS, +685
-San Marino, SM, +378
-Sao Tome and Principe, ST, +239
-Saudi Arabia, SA, +966
-North Macedonia, MK, +389
-Northern Mariana Islands, MP, +1
-Seychelles, SC, +248
-Saint Barthélemy, BL, +590
-Saint Vincent and the Grenadines, VC, +1
-Senegal, SN, +221
-Saint Martin (French part), MF, +590
-Saint Pierre and Miquelon, PM, +508
-Saint Kitts and Nevis, KN, +1
-Saint Lucia, LC, +1
-Serbia, RS, +381
-Singapore, SG, +65
-Sint Maarten (Dutch part), SX, +1
-Syria, SY, +963
-Slovakia, SK, +421
-Slovenia, SI, +386
-United States of America, US, +1
-Solomon Islands, SB, +677
-Somalia, SO, +252
-Sudan, SD, +249
-Suriname, SR, +597
-Sierra Leone, SL, +232
-Tajikistan, TJ, +992
-Thailand, TH, +66
-Taiwan, TW, +886
-Tanzania, TZ, +255
-Togo, TG, +228
-Tokelau, TK, +690
-Tonga, TO, +676
-Trinidad and Tobago, TT, +1
-Tuvalu, TV, +688
-Tunisia, TN, +216
-Turkmenistan, TM, +993
-Turkey, TR, +90
-Uganda, UG, +256
-Uzbekistan, UZ, +998
-Ukraine, UA, +380
-Wallis and Futuna, WF, +681
-Uruguay, UY, +598
-Faroe Islands, FO, +298
-Fiji, FJ, +679
-Philippines, PH, +63
-Finland, FI, +358
-Falkland Islands (Islas Malvinas), FK, +500
-France, FR, +33
-French Guiana, GF, +594
-French Polynesia, PF, +689
-Croatia, HR, +385
-Central African Republic, CF, +236
-Chad, TD, +235
-Montenegro, ME, +382
-Czech Republic, CZ, +420
-Chile, CL, +56
-Switzerland, CH, +41
-Sweden, SE, +46
-Sri Lanka, LK, +94
-Ecuador, EC, +593
-Equatorial Guinea, GQ, +240
-Eritrea, ER, +291
-Eswatini, SZ, +268
-Estonia, EE, +372
-Ethiopia, ET, +251
-South Africa, ZA, +27
-South Sudan, SS, +211
-Jamaica, JM, +1
-Japan, JP, +81
+"Australia","AU","+61"
+"Austria","AT","+43"
+"Azerbaijan","AZ","+994"
+"Albania","AL","+355"
+"Algeria","DZ","+213"
+"American Samoa","AS","+1"
+"Anguilla","AI","+1"
+"Angola","AO","+244"
+"Andorra","AD","+376"
+"Antigua and Barbuda","AG","+1"
+"Argentina","AR","+54"
+"Armenia","AM","+374"
+"Aruba","AW","+297"
+"Afghanistan","AF","+93"
+"Bahamas","BS","+1"
+"Bangladesh","BD","+880"
+"Barbados","BB","+1"
+"Bahrain","BH","+973"
+"Belarus","BY","+375"
+"Belize","BZ","+501"
+"Belgium","BE","+32"
+"Benin","BJ","+229"
+"Bermuda","BM","+1"
+"Bulgaria","BG","+359"
+"Bolivia","BO","+591"
+"Bonaire, Sint Eustatius and Saba","BQ","+599"
+"Bosnia and Herzegovina","BA","+387"
+"Botswana","BW","+267"
+"Brazil","BR","+55"
+"British Indian Ocean Territory","IO","+246"
+"Brunei Darussalam","BN","+673"
+"Burkina Faso","BF","+226"
+"Burundi","BI","+257"
+"Bhutan","BT","+975"
+"Vanuatu","VU","+678"
+"Holy See (Vatican City State)","VA","+39"
+"United Kingdom","GB","+44"
+"Hungary","HU","+36"
+"Venezuela","VE","+58"
+"U.S. Virgin Islands","VI","+1"
+"Australia (External Territories)","NF","+672"
+"Timor-Leste","TL","+670"
+"Vietnam","VN","+84"
+"Gabon","GA","+241"
+"Haiti","HT","+509"
+"Guyana","GY","+592"
+"Gambia","GM","+220"
+"Ghana","GH","+233"
+"Guadeloupe","GP","+590"
+"Guatemala","GT","+502"
+"Guinea","GN","+224"
+"Guinea-Bissau","GW","+245"
+"Germany","DE","+49"
+"Gibraltar","GI","+350"
+"Honduras","HN","+504"
+"Hong Kong","HK","+852"
+"Grenada","GD","+1"
+"Greenland","GL","+299"
+"Greece","GR","+30"
+"Georgia","GE","+995"
+"Guam","GU","+1"
+"Denmark","DK","+45"
+"Democratic Republic of the Congo","CD","+243"
+"Djibouti","DJ","+253"
+"Diego Garcia (BIOT)","IO","+246"
+"Dominica","DM","+1"
+"Dominican Republic","DO","+1"
+"Egypt","EG","+20"
+"Zambia","ZM","+260"
+"Zimbabwe","ZW","+263"
+"Israel","IL","+972"
+"India","IN","+91"
+"Indonesia","ID","+62"
+"Jordan","JO","+962"
+"Iraq","IQ","+964"
+"Iran","IR","+98"
+"Ireland","IE","+353"
+"Iceland","IS","+354"
+"Spain","ES","+34"
+"Italy","IT","+39"
+"Yemen","YE","+967"
+"Cabo Verde","CV","+238"
+"Kazakhstan","KZ","+7"
+"Cayman Islands","KY","+1"
+"Cambodia","KH","+855"
+"Cameroon","CM","+237"
+"Canada","CA","+1"
+"Qatar","QA","+974"
+"Kenya","KE","+254"
+"Cyprus","CY","+357"
+"Kiribati","KI","+686"
+"China","CN","+86"
+"Colombia","CO","+57"
+"Comoros","KM","+269"
+"Republic of the Congo","CG","+242"
+"North Korea (DPRK)","KP","+850"
+"Kosovo","XK","+383"
+"Costa Rica","CR","+506"
+"Côte d’Ivoire","CI","+225"
+"Cuba","CU","+53"
+"Kuwait","KW","+965"
+"Kyrgyzstan","KG","+996"
+"Curaçao","CW","+599"
+"Laos (Lao PDR)","LA","+856"
+"Latvia","LV","+371"
+"Lesotho","LS","+266"
+"Liberia","LR","+231"
+"Lebanon","LB","+961"
+"Libya","LY","+218"
+"Lithuania","LT","+370"
+"Liechtenstein","LI","+423"
+"Luxembourg","LU","+352"
+"Mauritius","MU","+230"
+"Mauritania","MR","+222"
+"Madagascar","MG","+261"
+"Macau","MO","+853"
+"Malawi","MW","+265"
+"Malaysia","MY","+60"
+"Mali","ML","+223"
+"Maldives","MV","+960"
+"Malta","MT","+356"
+"Morocco","MA","+212"
+"Martinique","MQ","+596"
+"Marshall Islands","MH","+692"
+"Mexico","MX","+52"
+"Micronesia (Federated States of)","FM","+691"
+"Mozambique","MZ","+258"
+"Moldova","MD","+373"
+"Monaco","MC","+377"
+"Mongolia","MN","+976"
+"Montserrat","MS","+1"
+"Myanmar","MM","+95"
+"Namibia","NA","+264"
+"Nauru","NR","+674"
+"Nepal","NP","+977"
+"Niger","NE","+227"
+"Nigeria","NG","+234"
+"Netherlands","NL","+31"
+"Nicaragua","NI","+505"
+"Niue","NU","+683"
+"New Zealand","NZ","+64"
+"New Caledonia","NC","+687"
+"Norway","NO","+47"
+"United Arab Emirates","AE","+971"
+"Oman","OM","+968"
+"Ascension Island","AC","+247"
+"Saint Helena","SH","+290"
+"Cook Islands","CK","+682"
+"Turks and Caicos Islands","TC","+1"
+"Tristan da Cunha","TA","+290"
+"Pakistan","PK","+92"
+"Palau","PW","+680"
+"Palestine","PS","+970"
+"Panama","PA","+507"
+"Papua New Guinea","PG","+675"
+"Peru","PE","+51"
+"Poland","PL","+48"
+"Portugal","PT","+351"
+"Puerto Rico","PR","+1"
+"South Korea (Republic of Korea)","KR","+82"
+"Réunion","RE","+262"
+"Russia","RU","+7"
+"Rwanda","RW","+250"
+"Romania","RO","+40"
+"El Salvador","SV","+503"
+"Samoa","WS","+685"
+"San Marino","SM","+378"
+"Sao Tome and Principe","ST","+239"
+"Saudi Arabia","SA","+966"
+"North Macedonia","MK","+389"
+"Northern Mariana Islands","MP","+1"
+"Seychelles","SC","+248"
+"Saint Barthélemy","BL","+590"
+"Saint Vincent and the Grenadines","VC","+1"
+"Senegal","SN","+221"
+"Saint Martin (French part)","MF","+590"
+"Saint Pierre and Miquelon","PM","+508"
+"Saint Kitts and Nevis","KN","+1"
+"Saint Lucia","LC","+1"
+"Serbia","RS","+381"
+"Singapore","SG","+65"
+"Sint Maarten (Dutch part)","SX","+1"
+"Syria","SY","+963"
+"Slovakia","SK","+421"
+"Slovenia","SI","+386"
+"United States of America","US","+1"
+"Solomon Islands","SB","+677"
+"Somalia","SO","+252"
+"Sudan","SD","+249"
+"Suriname","SR","+597"
+"Sierra Leone","SL","+232"
+"Tajikistan","TJ","+992"
+"Thailand","TH","+66"
+"Taiwan","TW","+886"
+"Tanzania","TZ","+255"
+"Togo","TG","+228"
+"Tokelau","TK","+690"
+"Tonga","TO","+676"
+"Trinidad and Tobago","TT","+1"
+"Tuvalu","TV","+688"
+"Tunisia","TN","+216"
+"Turkmenistan","TM","+993"
+"Turkey","TR","+90"
+"Uganda","UG","+256"
+"Uzbekistan","UZ","+998"
+"Ukraine","UA","+380"
+"Wallis and Futuna","WF","+681"
+"Uruguay","UY","+598"
+"Faroe Islands","FO","+298"
+"Fiji","FJ","+679"
+"Philippines","PH","+63"
+"Finland","FI","+358"
+"Falkland Islands (Islas Malvinas)","FK","+500"
+"France","FR","+33"
+"French Guiana","GF","+594"
+"French Polynesia","PF","+689"
+"Croatia","HR","+385"
+"Central African Republic","CF","+236"
+"Chad","TD","+235"
+"Montenegro","ME","+382"
+"Czech Republic","CZ","+420"
+"Chile","CL","+56"
+"Switzerland","CH","+41"
+"Sweden","SE","+46"
+"Sri Lanka","LK","+94"
+"Ecuador","EC","+593"
+"Equatorial Guinea","GQ","+240"
+"Eritrea","ER","+291"
+"Eswatini","SZ","+268"
+"Estonia","EE","+372"
+"Ethiopia","ET","+251"
+"South Africa","ZA","+27"
+"South Sudan","SS","+211"
+"Jamaica","JM","+1"
+"Japan","JP","+81"
+"Paraguay","PY","+595"
